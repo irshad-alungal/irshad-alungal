@@ -1,13 +1,9 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](http://ww16.rishavchanda.io/?sub1=20221105-0231-2555-a4f6-fe8a142b1936)
 <h1 align="center">Hi 👋, I'm Irshad Alugal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irshad-alungal&label=Profile%20views&color=0e75b6&style=flat" alt="irshad-alungal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irshad-alungal" alt="irshad-alungal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [XandY Learning](https://www.linkedin.com/company/xandylearning/mycompany/)
 

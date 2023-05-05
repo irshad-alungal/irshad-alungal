@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [XandY Learning](https://www.linkedin.com/company/xandylearning/mycompany/)
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://irshad-alungal.github.io/web/](https://irshad-alungal.github.io/web/)
 

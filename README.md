@@ -5,11 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irshad-alungal&label=Profile%20views&color=0e75b6&style=flat" alt="irshad-alungal" /> </p>
 
 
-- 🔭 I’m currently working on [XandY Learning](https://www.linkedin.com/company/xandylearning/mycompany/)
 
-- 🌱 I’m currently learning **Python & PHP**
+- 🌱 I’m currently learning **MEA(R)N stack from Luminar Technolab**
 
-- 👨‍💻 All of my projects are available at [https://irshad-alungal.github.io/web/](https://irshad-alungal.github.io/web/)
+- 👨‍💻 All of my projects are available at [https://irshad-alungal.github.io/linktree/](https://irshad-alungal.github.io/linktree/)
 
 - 📫 How to reach me **mialungal@outlook.com**
 

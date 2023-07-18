@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **MEA(R)N stack from Luminar Technolab**
+- 🌱 I’m currently learning **MEA(R)N stack**
 
 - 👨‍💻 All of my projects are available at [https://irshad-alungal.github.io/linktree/](https://irshad-alungal.github.io/linktree/)
 

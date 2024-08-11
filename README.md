@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MEA(R)N stack**
 
-- 👨‍💻 All of my projects are available at [https://irshad-alungal.github.io/linktree/](https://irshad-alungal.github.io/linktree/)
+- 👨‍💻 All of my projects are available at [https://irshad-alungal.github.io/web/](https://irshad-alungal.github.io/web/)
 
 - 📫 How to reach me **mialungal@outlook.com**
 
